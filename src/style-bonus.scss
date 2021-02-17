@@ -1,0 +1,17 @@
+.list {
+	&-first {
+		color: red;
+
+		.special {
+			font-size: 25px;
+		}
+	}
+
+	&-second {
+		color: blue;
+	}
+
+	&-third {
+		color: green;
+	}
+}

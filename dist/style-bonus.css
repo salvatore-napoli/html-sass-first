@@ -1,0 +1,12 @@
+.list-first {
+  color: red;
+}
+.list-first .special {
+  font-size: 25px;
+}
+.list-second {
+  color: blue;
+}
+.list-third {
+  color: green;
+}
